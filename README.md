@@ -7,9 +7,9 @@
 
 - My favourite games are :
 - Red Dead Redemption 2 (The immersiveness of the game) 
+- Assassins Creed Black flag (Loved the sea battles included and the parkour elements of the game and the game was my childhood favourite)
 - The Witcher 3 (Story of the game) 
 - Fallout New Vegas (Self-explanatory)
-- Assassins Creed Black flag (Loved the sea battles included and the parkour elements of the game)
 
 
 - 🌱 I’m currently learning ...
@@ -26,4 +26,6 @@
 - Gmail: kohDamien1998@gmail.com
 
 - Current works:
-- NULL
+- TaskCloud Mobile application (HTML / CSS / JAVASCRIPT)
+- Otodecks, Music Application (C++)
+- More works to come in the future!
