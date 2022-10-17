@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DKJKOH aka Damien!
+- 👋 Hi, I’m @DKJKOH aka Damien Koh Kai Jie!
 
 
 - 👀 I’m interested in ...
