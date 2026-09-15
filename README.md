@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in ...
-- Game Development! I would like to work for rockstar or ubisoft! 
+- Game Development! I would like to work for rockstar / CDPR / Kojima Studios / Larian Games! 
 
 
 - My favourite games are :
